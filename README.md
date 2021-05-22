@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bluewave2
 - 👀 I’m interested in useful programs
 - 🌱 I’m currently learning anything that is interesting to me
-- 💞️ I’m looking to collaborate on anything that is interesting
+- 💞️ I’m looking to collaborate on anything that is interesting to me
 - 📫 How to reach me: @ me on Github :)
 
 <!---
