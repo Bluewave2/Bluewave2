@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bluewave2
-- 👀 I’m interested in C++,C#,python,batch,T-SQL,HTML,CSS
-- 🌱 I’m currently learning anything that is interesting to me
+- 👀 I’m interested in useful programs
+- 🌱 I’m currently learning C++ ,C# , Python, Batch, T-SQL, HTML, CSS, JS, Java
 - 💞️ I’m looking to collaborate on useful programs
 
 <!---
